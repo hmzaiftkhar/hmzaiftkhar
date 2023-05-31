@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning MLOps
 
-- 💬 Ask me about system programming, operating systems.
+- 💬 Ask me about system programming, operating systems
 
 - 📫 How to reach me hamzaiftikhar0313@gmail.com
 
